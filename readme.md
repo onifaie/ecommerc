@@ -12,3 +12,5 @@
 * run this command to run server  ------- > python manage.py runserver 
 * you can enter this control panel -------> domain\admin -------> enter the user name and password 
 * [mysite](https://obeid.pro/)
+* [link text](https://www.youtube.com/watch?v=DJVEb8V9FTo "wepscraping")
+
