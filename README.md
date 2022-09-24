@@ -1,1 +1,8 @@
-# ecommerc
+- steps 
+-    create venv  ------- > python  -m  venv  name_VenV 
+-    activate the Venv  --->  .\Scripts\activate\
+-    pip install django 
+-    create new folder 
+-    inside this folder  ---------> git clone path Repo
+-    change the name of Repo to Src  Folder 
+-    
