@@ -1,2 +1,2 @@
-# this all steps i want to make it 
-## this how i can do it 
+# this all ingformation about my Project and how to use it libraray 
+### instructions  Project Step by step 
