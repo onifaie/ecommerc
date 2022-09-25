@@ -12,7 +12,6 @@
 * run this command to run server  ------- > python manage.py runserver 
 * you can enter this control panel -------> domain\admin -------> enter the user name and password 
 * [mysite](https://obeid.pro/)
-<center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DJVEb8V9FTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tSx-qwHG3RU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
