@@ -13,11 +13,11 @@ p# this all ingformation about my Project and how to use it libraray
 * you can enter this control panel -------> domain\admin -------> enter the user name and password 
 * [mysite](https://obeid.pro/)
 
-'''
+```
 from django.db import models
 
 # Create your models here.
 class product(models.Model):
     pro_name=models.CharField(max_length=100)
 
-'''
+```
